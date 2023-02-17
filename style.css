@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  height: 80vh;
+  background-size: cover;
+
+  background-image: url(http://viettelinternet24h.com/wp-content/uploads/2022/08/img_630afc9011c82.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  height: 80vh;
+  background-size: cover;
+
+  background-image: url(https://i.pinimg.com/originals/aa/80/44/aa8044ca87748268211b4f5a1b91b5ef.png);
+}
+
+.bg-img3 {
+  background-color: #000;
+  height: 80vh;
+  background-size: cover;
+
+  background-image: url(https://wallpaperaccess.com/full/230637.jpg);
+}
